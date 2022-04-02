@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=TX2_IN Pin=U1-16
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

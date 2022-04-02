@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=SWDIO Pin=U1-46
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

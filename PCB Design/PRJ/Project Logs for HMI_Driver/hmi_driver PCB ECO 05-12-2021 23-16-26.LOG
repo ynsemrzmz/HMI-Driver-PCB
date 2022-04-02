@@ -1,0 +1,54 @@
+Added Component: Designator=D7(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Led"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Water Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "94mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "BL-HKB35A-TRB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BRIGHT LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "2.2V"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Led"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Water Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "94mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "BL-HKB35A-TRB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BRIGHT LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "2.2V"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW06031K00FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW06031K00FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=D7-1
+Added Pin To Net: NetName=+3V3 Pin=D8-1
+Added Pin To Net: NetName=RS232_TX1 Pin=R18-2
+Added Pin To Net: NetName=RS232_TX2 Pin=R19-2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R18-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R19-1
+Added Net: Name=NetD8_2
+Added Member To Class: ClassName=Peripheral Member=Component D7 BL-HKB35A-TRB
+Added Member To Class: ClassName=Peripheral Member=Component D8 BL-HKB35A-TRB
+Added Member To Class: ClassName=Peripheral Member=Component R18 1k
+Added Member To Class: ClassName=Peripheral Member=Component R19 1k
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

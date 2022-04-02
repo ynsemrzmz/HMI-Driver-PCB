@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=CAN_RX Pin=U1-44
+Added Pin To Net: NetName=CAN_TX Pin=U1-45
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

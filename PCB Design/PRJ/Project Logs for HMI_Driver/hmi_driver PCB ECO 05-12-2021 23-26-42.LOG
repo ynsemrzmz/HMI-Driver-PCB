@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED1 Pin=U1-55
+Added Pin To Net: NetName=LED1 Pin=U1-38
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power
